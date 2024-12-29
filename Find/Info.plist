@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Lexend-SemiBold.ttf</string>
+		<string>Lexend-Regular.ttf</string>
+		<string>Lexend-Light.ttf</string>
+		<string>Lexend-Bold.ttf</string>
+		<string>Lexend-Medium.ttf</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.necun.Find</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>Find</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

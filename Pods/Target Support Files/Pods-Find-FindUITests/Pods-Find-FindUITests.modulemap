@@ -1,0 +1,6 @@
+framework module Pods_Find_FindUITests {
+  umbrella header "Pods-Find-FindUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
